@@ -1,0 +1,12 @@
+/build
+.env
+node_modules
+coverage
+coverage.json
+typechain
+
+# Hardhat & Truffle files
+cache
+artifacts
+/.openzeppelin
+.idea
